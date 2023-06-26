@@ -1,0 +1,9 @@
+.titel {
+  margin: 0 auto 50px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
